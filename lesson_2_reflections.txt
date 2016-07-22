@@ -1,0 +1,9 @@
+What happens when you initialise a repository? Why do you need to do it?
+
+When we initialise a repository git creates a .git file. However no commits are added.
+Initialising a repository is the first step before adding anything to it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging Area is a temporary platform which kind of links the working directory and the repository. It helps in selecting a few files(offers selectivity) in adding to a repo.
+
