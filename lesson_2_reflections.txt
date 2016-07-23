@@ -9,4 +9,9 @@ Staging Area is a temporary platform which kind of links the working directory a
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-We can use the git diff to check the new thing added.`
+We can use the git diff to check the new thing added.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we need to make subtle changes which have a risk of failing, then it may be better to do that off the master branch. 
+Branches help by keeping the master branch unchanged and by providing a neat label for the new testing feature.
