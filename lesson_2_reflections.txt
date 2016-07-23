@@ -19,3 +19,7 @@ Branches help by keeping the master branch unchanged and by providing a neat lab
 How do the diagrams help you visualise the branch structure?
 
 Diagrams help simplify the the branch structure and we can easily know which commit is in what branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches in a way incorporates both developments into one commit. It is represented by two paths merging to form one stem again
