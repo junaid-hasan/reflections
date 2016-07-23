@@ -15,3 +15,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 When we need to make subtle changes which have a risk of failing, then it may be better to do that off the master branch. 
 Branches help by keeping the master branch unchanged and by providing a neat label for the new testing feature.
+
+How do the diagrams help you visualise the branch structure?
+
+Diagrams help simplify the the branch structure and we can easily know which commit is in what branch.
