@@ -13,7 +13,7 @@ We can use the git diff to check the new thing added.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-When we need to make subtle changes which have a risk of failing, then it may be better to do that off the master branch. 
+When we need to make subtle changes which have a risk of failing, then it may be better to do that off the master branch.
 Branches help by keeping the master branch unchanged and by providing a neat label for the new testing feature.
 
 How do the diagrams help you visualise the branch structure?
@@ -23,3 +23,7 @@ Diagrams help simplify the the branch structure and we can easily know which com
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches in a way incorporates both developments into one commit. It is represented by two paths merging to form one stem again
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Git's automatic meging saves time. Manual merging however maybe required often as Git does not do the painful job of actually verifying two branches.
