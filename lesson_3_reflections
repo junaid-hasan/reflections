@@ -5,3 +5,9 @@ When we do not have access to the file on the computer(travel etc), but we have 
 Why might you want to always pull changes manually rather than having Git automatcally stay up-to-date with your remote repository?
 
 We want to pull when we want to save a copy on our local hard drive. As the copy is always on GitHub, a local copy is not needed. Hence pulling is not automatic.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used to modify the code of someone else without affecting his/her code. Fork is a special term used for clones in the github itself.
+Clone is just a copy of a code from one place to another.
+Branches are two different versions of a same repository.
