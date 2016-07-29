@@ -20,3 +20,7 @@ This helps in offline editing and merging of the changes so as to include everyt
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or GitHub we need to send e-mails and continuously modify the files. This would be hard. Git or GitHub is simple.
+
+When wouldd you want to make changes in a spearate branch rather than directly in master? What benefits does each approach have?
+
+When we are discussing on the future of the project in a collaborative manner, changing the master would only be done after all discussion is final. Hence we make a separate branch and make personal changes there.
