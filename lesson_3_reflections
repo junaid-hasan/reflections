@@ -16,3 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 When more than one person is developing a project, often we may find diverging changes, in order to store the change made by others without involving our own change is done by this.
 This helps in offline editing and merging of the changes so as to include everything.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub we need to send e-mails and continuously modify the files. This would be hard. Git or GitHub is simple.
